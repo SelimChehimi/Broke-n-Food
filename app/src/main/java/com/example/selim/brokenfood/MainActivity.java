@@ -24,5 +24,7 @@ public class MainActivity extends AppCompatActivity
     private void test_upload()
     {
         int i = 1+1;
+        char letter = 'a';
+        int c = 5;
     }
 }
